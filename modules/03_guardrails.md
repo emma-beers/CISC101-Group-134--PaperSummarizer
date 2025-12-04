@@ -10,11 +10,8 @@ IF evidence_mode = "strict":
 IF section empty: "Section skipped: no usable text"
 IF section <50 words: "Section very short: summary may be incomplete"
 
-New Requirement B: Strengthen Evidence & Hallucination Guardrails (Module 03)
 
-The summarizer should more clearly respect the “only use what’s in the paper” rule and expose that behavior.
-
-You must add BOTH of these guardrails to 03_guardrails.md:
+**New Requirement B**: Strengthen Evidence & Hallucination Guardrails (Module 03)
 
 Strict Evidence Mode: Introduce a mode or flag (e.g., evidence_mode = "strict"). When it is set to "strict":
 
