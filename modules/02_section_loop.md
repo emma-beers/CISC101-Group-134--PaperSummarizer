@@ -8,7 +8,7 @@ FOR each section:
     Generate 1-2 sentence summary
   ELSE IF summary_level = "detailed":
     Generate paragraph + 3-5 bullet points
-  
+   
   Check word count
   Append to results
 
