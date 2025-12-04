@@ -3,7 +3,7 @@ Add this variable at start:
 - summary_level = "short" or "detailed" (default: "detailed")
 
 ### Updated Logic
-FOR each section:
+FOR each section:  
   IF summary_level = "short":
     Generate 1-2 sentence summary
   ELSE IF summary_level = "detailed":
