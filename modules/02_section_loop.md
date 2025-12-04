@@ -30,4 +30,4 @@ If summary_level = "short" → generate only a compact summary.
 
 If summary_level = "detailed" → generate summary + bullet list.
 
-Make sure the instructions are clearly written in 02_section_loop.md in the same style as the existing loop logic.
+
