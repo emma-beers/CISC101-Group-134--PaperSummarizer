@@ -12,7 +12,7 @@ IF section <50 words: "Section very short: summary may be incomplete"
 
 New Requirement B: Strengthen Evidence & Hallucination Guardrails (Module 03)
 
-The summarizer should more clearly respect the “only use what’s in the paper” rule and expose that behavior.
+The summarizer should more clearly respect the “only use what’s in the paper” rule and expose that behavior. 
 
 You must add BOTH of these guardrails to 03_guardrails.md:
 
