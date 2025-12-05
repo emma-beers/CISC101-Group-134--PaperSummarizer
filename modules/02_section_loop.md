@@ -12,7 +12,7 @@ FOR each section:
   Check word count
   Append to results
 
-  New Requirement A: Add “Summary Level” Modes (Module 02)  The summarizer should support two summary levels for each section:
+New Requirement A: Add “Summary Level” Modes (Module 02)  The summarizer should support two summary levels for each section:
 
 summary_level = "short"
 
@@ -29,5 +29,4 @@ Add conditional behavior in the section loop:
 If summary_level = "short" → generate only a compact summary.
 
 If summary_level = "detailed" → generate summary + bullet list.
-
 
